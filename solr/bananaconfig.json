@@ -1,0 +1,26 @@
+{
+  "add-field":{
+     "name":"user",
+     "type":"string",
+     "indexed":"true",
+     "stored":"true",
+     "multiValued":false },
+  "add-field":{
+     "name":"group",
+     "type":"string",
+     "indexed":"true",
+     "stored":"true",
+     "multiValued":false },
+  "add-field":{
+     "name":"title",
+     "type":"string",
+     "indexed":"true",
+     "stored":"true",
+     "multiValued":false },
+  "add-field":{
+     "name":"dashboard",
+     "type":"string",
+     "indexed":"false",
+     "stored":"true",
+     "multiValued":false }
+}

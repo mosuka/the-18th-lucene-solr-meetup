@@ -60,7 +60,7 @@
      "type":"location",
      "indexed":"true",
      "stored":"true",
-     "docValues":"true",
+     "docValues":"false",
      "multiValued":false },
   "add-field":{
      "name":"message",
